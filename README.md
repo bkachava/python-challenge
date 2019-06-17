@@ -2,7 +2,8 @@
 
 These four challenges encompass real-world situations where my `Python` scripting skills came in handy.
 
-##PyBank
+
+## PyBank
 
 In this challenge, a Python script for analyzing the financial records of a company was created. The financial [dataset](PyBank/Resources/budget_data.csv) is composed of two columns: Date and Profit/Losses.
 
@@ -15,9 +16,10 @@ The resulting [Python script](PyBank/main.py) calculates each of the following:
 
 The script prints the analysis to the terminal and export a text file with the [results](PyBank/Output/results.txt).
 
-##PyPoll
 
-To help a small, rural town modernize its vote-counting process, a Python script was created. A set of [poll data](PyPoll/Resources/election_data.csv), with three columns: Voter ID, County, and Candidate; was used. 
+## PyPoll
+
+To help a small, rural town modernize its vote-counting process, a Python script was created. A set of [poll data](PyPoll/Resources), with three columns: Voter ID, County, and Candidate; was used. 
 
 The resulting [Python script](PyPoll/main.py) calculates each of the following:
  - The total number of votes cast
@@ -28,7 +30,8 @@ The resulting [Python script](PyPoll/main.py) calculates each of the following:
 
 The script prints the analysis to the terminal and export a text file with the [results](PyPoll/Output/results.txt).
 
-##PyBoss
+
+## PyBoss
 
 In this challenge, a company recently decided to purchase a new HR system, that requires employee records be stored in a specific format, therefore a Python script to convert the employee records to the required format was created. 
 
@@ -45,7 +48,8 @@ The resulting [Python script](PyBoss/main.py) does the following:
  
  The script generates a csv file with the [results](PyBoss/Output/employee_data_new.csv).
  
- ##PyParagraph
+ 
+ ## PyParagraph
  
 A Python script to automate the analysis of differetn types of passages of writing was created. A simple set of metrics for assessing complexity was designed to automate the analysis of any passage 
 
